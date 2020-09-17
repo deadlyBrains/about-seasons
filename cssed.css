@@ -1,0 +1,14 @@
+body {
+	background-image: url('winter_img_1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*font-family: 'Roboto', sans-serif;*/
+	/*font-family: 'Abril Fatface', cursive;*/
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+	color: red;
+}
+
+img {
+	opacity: 1;
+}
